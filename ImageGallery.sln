@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery", "ImageGallery\ImageGallery.csproj", "{016408C0-F4B6-4EB8-8A5C-4AB227948B44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageData", "ImageData\ImageData.csproj", "{0122F86F-3147-4B07-ABAB-B245FDB7712E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageService", "ImageService\ImageService.csproj", "{EB9C22CD-932E-4233-B470-57977ECEB936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{016408C0-F4B6-4EB8-8A5C-4AB227948B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016408C0-F4B6-4EB8-8A5C-4AB227948B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016408C0-F4B6-4EB8-8A5C-4AB227948B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0122F86F-3147-4B07-ABAB-B245FDB7712E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0122F86F-3147-4B07-ABAB-B245FDB7712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0122F86F-3147-4B07-ABAB-B245FDB7712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0122F86F-3147-4B07-ABAB-B245FDB7712E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9C22CD-932E-4233-B470-57977ECEB936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9C22CD-932E-4233-B470-57977ECEB936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9C22CD-932E-4233-B470-57977ECEB936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9C22CD-932E-4233-B470-57977ECEB936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
